@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'Cp1252'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Jonte/OneDrive/Dokument/JUnitByggverktyg/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Jonte/OneDrive/Dokument/JUnitByggverktyg/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JUnitByggverktyg 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'JUnitByggverktyg 1.0-SNAPSHOT API'
+models
+ui
+utilities
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\src\main\java = 1706781873611
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\allclasses-index.html = 1707139489217
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\allpackages-index.html = 1707139489221
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\element-list = 1707139489064
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\help-doc.html = 1707139489261
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\index-all.html = 1707139489252
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\index.html = 1707139489194
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\jquery-ui.overrides.css = 1707139489285
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\member-search-index.js = 1707139489229
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\module-search-index.js = 1707139489223
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\overview-summary.html = 1707139489256
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\overview-tree.html = 1707139489188
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\package-search-index.js = 1707139489225
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\script.js = 1707139489267
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\search.js = 1707139489270
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\serialized-form.html = 1707139489106
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\stylesheet.css = 1707139489264
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\tag-search-index.js = 1707139489231
+C:\Users\Jonte\OneDrive\Dokument\JUnitByggverktyg\target\site\apidocs\type-search-index.js = 1707139489227
